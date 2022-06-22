@@ -1,3 +1,5 @@
 # Diwali-Sales-Prediction
-A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories.
-To build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products
+The dataset consist of 4 different types of sweets and their respective amounts and the total amount. 
+We used this dataset to train our model using Random Forest Regessor and got an accuracy for train data is 99.29% and test accuracy of 95.1%.
+Did visualization of the data of which product is sold more.
+Used Streamlit Library to deploy and web application.
